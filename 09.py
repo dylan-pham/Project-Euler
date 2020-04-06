@@ -23,4 +23,3 @@ def checkCombos():
                         return(a * b * c)
 
 print(checkCombos())
-# answer = 31875000
