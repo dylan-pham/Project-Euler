@@ -13,5 +13,3 @@ while endIndex <= 5000:
     endIndex += 50
 
 print(str(sum)[0:10])
-
-# answer = 5483872696
