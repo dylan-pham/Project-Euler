@@ -10,5 +10,3 @@ for each in str(num):
     sum += int(each)
 
 print(sum)
-
-# answer = 1336
