@@ -20,5 +20,3 @@ for i in range(999, 99, -1):
             largestPalindrome = i * x
 
 print(largestPalindrome)
-
-# answer = 906609
