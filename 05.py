@@ -16,5 +16,3 @@ while True:
     else:
         initialValue += 20
         divisor = 20
-
-# answer = 232792560
