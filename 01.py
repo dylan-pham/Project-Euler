@@ -11,5 +11,3 @@ for i in range(0, 1000):
         sum += i
 
 print(sum)
-
-# answer = 233168
