@@ -42,5 +42,3 @@ while endingIndex < len(num):
     endingIndex += 1
 
 print(greatestProduct)
-
-# answer = 23514624000
