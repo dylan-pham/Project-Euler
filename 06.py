@@ -22,5 +22,3 @@ for i in range(1, 101):
 squareOfSum = sum ** 2
 
 print(squareOfSum - sumOfSquares)
-
-# answer = 25164150
