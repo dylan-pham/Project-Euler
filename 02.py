@@ -20,5 +20,3 @@ for number in numbers:
         sum += number
 
 print(sum)
-
-# answer = 4613732
