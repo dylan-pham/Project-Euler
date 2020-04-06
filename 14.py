@@ -33,5 +33,3 @@ def main():
     return num
 
 print(main())
-
-# answer = 837799
